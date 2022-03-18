@@ -19,6 +19,7 @@ class Main {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a String to reverse");
         String orignalString = sc.next();
+//        String orignalString = sc.nextLine();
         String result = reversString(orignalString);
         System.out.println("Original String is :"+orignalString);
         System.out.println("Reversed String is :"+ result);
