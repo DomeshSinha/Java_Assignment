@@ -1,7 +1,7 @@
 package com.masai.Mar10.day7;
 import java.util.Scanner;
 
-class Problem2 {
+class Main {
     public static String reversString(String input){
 //write the logic
         char[] ans = input.toCharArray();
