@@ -1,4 +1,4 @@
-package com.masai.Mar10.day7.Problem3;
+package com.masai.Mar10_day7.Problem3;
 
 public class Bean {
     private  int rollNumber;
@@ -10,7 +10,7 @@ public class Bean {
 
     public Bean(int rollNumber, String studentName, int marks) {
         this.rollNumber = rollNumber;
-        this.studentName = studentName;
+        this.studentName = studentName; 
         this.marks = marks;
     }
 

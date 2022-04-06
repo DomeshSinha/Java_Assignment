@@ -1,4 +1,4 @@
-package com.masai.Mar10.day7.Problem1;
+package com.masai.Mar10_day7.Problem1;
 
 public class Parrot extends Bird{
     @Override

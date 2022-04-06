@@ -1,4 +1,4 @@
-package com.masai.Mar10.day7.Problem2;
+package com.masai.Mar10_day7.Problem2;
 import java.util.Scanner;
 
 class Main {
